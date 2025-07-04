@@ -43,7 +43,7 @@ A Verilog model that simulates an automated parking system with sensor-based ent
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Language:** Verilog HDL
 - **Simulation:** GTKWave
