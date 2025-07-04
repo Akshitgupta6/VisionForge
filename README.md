@@ -1,6 +1,6 @@
 # Verilog Projects – Digital Clock & Automated Car Parking System 🚦⏰
 
-This repository contains two beginner-to-intermediate level Verilog HDL projects developed as part of my coursework and project work at IIT Kanpur. The designs were implemented and simulated using **Vivado** and **GTKWave**, and tested on the **Cora Z7** development board.
+This repository contains two beginner-to-intermediate level Verilog HDL projects developed as part of my project work at IIT Kanpur. The designs were implemented and simulated using **Vivado** and **GTKWave**.
 
 ---
 
