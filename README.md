@@ -1,12 +1,12 @@
-# Verilog Projects – Digital Clock & Automated Car Parking System 🚦⏰
+# Verilog Projects – Digital Clock & Automated Car Parking System
 
 This repository contains two beginner-to-intermediate level Verilog HDL projects developed as part of my project work at IIT Kanpur. The designs were implemented and simulated using **Vivado** and **GTKWave**.
 
 ---
 
-## 🚀 Projects Overview
+## Projects Overview
 
-### 1. Digital Clock ⏰
+### 1. Digital Clock 
 A modular Verilog-based digital clock that tracks time in hours, minutes, and seconds in real-time.
 
 **Features:**
@@ -25,7 +25,7 @@ A modular Verilog-based digital clock that tracks time in hours, minutes, and se
 
 ---
 
-### 2. Automated Car Parking System 🚗
+### 2. Automated Car Parking System 
 A Verilog model that simulates an automated parking system with sensor-based entry and exit logic.
 
 **Features:**
